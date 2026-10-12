@@ -292,4 +292,4 @@ The full engineering standard document is located in [`rules/rules.md`](file:///
 
 ## 📄 License
 
-Internal tool developed for Binaried Technologies engineering teams. Distributed under the MIT License.
+Internal tool developed by Tejas P. Distributed under the MIT License.
